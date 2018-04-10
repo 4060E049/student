@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-  const int NUMBER_OF_ELEMENTS = 2;
+  const int NUMBER_OF_ELEMENTS = 5;
   double numbers[NUMBER_OF_ELEMENTS];
   double numbers_squared[NUMBER_OF_ELEMENTS];
   double sum = 0;
@@ -25,7 +25,6 @@ int main()
   }
   cout << "numbers[1] is " << numbers[1] << endl;
   cout << "numbers_squared[1] is " << numbers_squared[1] << endl;
-  
   double average = sum / NUMBER_OF_ELEMENTS;
 
   int count = 0; // The number of elements above average
@@ -35,7 +34,7 @@ int main()
 
   cout << "Average is " << average << endl;
   cout << "Number of elements above the average " << count << endl;
-  cout << "龍恩師給維德小小的作業"  << endl;
+  cout << "龍恩師給維德的作業 "  << endl;
   system("pause"); 
   return 0;
 }

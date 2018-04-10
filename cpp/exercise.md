@@ -48,4 +48,4 @@ numbers_squared[i]=numbers[i]*numbers[i];
 
 
 ```
-
+![result](PIC/1.png)

@@ -35,7 +35,7 @@ int main()
 
   cout << "Average is " << average << endl;
   cout << "Number of elements above the average " << count << endl;
-  cout << "龍恩師給維德小小的作業" << count << endl;
+  cout << "龍恩師給維德小小的作業"  << endl;
   system("pause"); 
   return 0;
 }

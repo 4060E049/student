@@ -20,7 +20,7 @@ int main()
 ```
 
 
-![result](PIC/1.png)
+![result](PIC/陣列存取.png)
 ###### exercise1:3x3陣列相加(2018.4.17)
 
 ```

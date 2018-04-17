@@ -1,5 +1,4 @@
 ###### exercise1:陣列存取與基本運算(2018.4.17)
-```
 
 ```
 #include <iostream>
@@ -21,5 +20,4 @@ int main()
 ```
 
 
-```
 ![result](PIC/1.png)
